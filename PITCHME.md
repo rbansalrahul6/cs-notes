@@ -1,14 +1,14 @@
-# Flux 
+# Operating Systems
 
-An application architecture for React
+Add operating systems notes
 
 ---
 
-### Flux Design
+### Three Pieces of Operating Systems
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Virtualization
+- Concurrency
+- Persistence
 
 ---
 
